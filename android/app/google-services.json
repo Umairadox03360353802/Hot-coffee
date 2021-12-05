@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599622412982",
+    "project_id": "hot-coffee-64a9c",
+    "storage_bucket": "hot-coffee-64a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599622412982:android:79eb156358409839bdd417",
+        "android_client_info": {
+          "package_name": "com.example.hot_coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599622412982-53ko3kpsfrkupaauqvd3l383nu3hbr2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFbqEjVj3VynhgElVM40eGH4vIJ5g-LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599622412982-53ko3kpsfrkupaauqvd3l383nu3hbr2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
